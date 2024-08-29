@@ -16,3 +16,14 @@ TEAM MEMBER 3 RNO-RA2411026010813
 
 
 TRACK NAME-FinTech
+
+PROBLEM STATEMENT:
+1.Many people need a quick and simple way to calculate their loan repayments.
+2.Existing tools can be complex or require internet access.
+
+SOLUTION:
+To create a simple, offline tool that calculates monthly loan payments based on user input.
+
+
+
+
